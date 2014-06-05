@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
-燃やすごみ (戸別),,,img/moyasu.svg,#ea3b13
+燃やすごみ (戸別),,,img/moyasu02.svg,#ea3b13
 プラスチックごみ (戸別),,,img/moyasanai02.svg,#733b96
-容器包装プラスチック (戸別),,,img/moyasanai.svg,#bbe400
+容器包装プラスチック (戸別),,,img/moyasanai02.svg,#bbe400
 缶・金属類・古紙類・古布・衣類 (資源ステーション),,,img/shigen02.svg,#77ae1f
-びん類・ペットボトル・白色トレイ・廃食油 (資源ステーション),,,img/bin.svg,#2dc7aa
+びん類・ペットボトル・白色トレイ・廃食油 (資源ステーション),,,img/bin02.svg,#2dc7aa
 草木類 (資源ステーション),,,img/shigen02.svg,#27a047
-埋立ごみ・小型電気製品・蛍光管・電球・水銀式体温計・温度計 (資源ステーション),,,img/shigen.svg,#91dde7
+埋立ごみ・小型電気製品・蛍光管・電球・水銀式体温計・温度計 (資源ステーション),,,img/shigen02.svg,#91dde7
