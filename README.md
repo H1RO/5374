@@ -24,4 +24,4 @@
 
 ## Contributers in HAYAMA
 
-[大和 弘明(Hiroaki YAMATO)](http://github.com/H1RO)
+[hrakYMT](http://github.com/H1RO)
