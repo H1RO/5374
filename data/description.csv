@@ -6,4 +6,4 @@ label,sublabel,description,styles,bgcolor
 びん類・ペットボトル (資源ステーション),,,img/binpet.svg,#2dc7aa
 草木類 (資源ステーション),,,img/kusaki.svg,#27a047
 埋立ごみ・小型電気製品等 (資源ステーション),,,img/umetate.svg,#00b7c0
-生ごみ,,,,#FF99CC
+生ごみ,,,img/namagomi.svg,#FF99CC
